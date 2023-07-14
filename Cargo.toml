@@ -23,7 +23,7 @@ pg15 = ["pgrx/pg15", "pgrx-tests/pg15"]
 pg_test = []
 
 [dependencies]
-pgrx = "~0.9.1"
+pgrx = "~0.9.8"
 
 [dev-dependencies]
 pgrx-tests = "~0.9.1"
